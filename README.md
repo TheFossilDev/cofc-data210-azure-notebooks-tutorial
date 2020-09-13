@@ -18,16 +18,17 @@ Go to the OpenLearn [Course Documents Page](https://github.com/mwermelinger/Lear
 
 Once downloaded, locate it in your computer's files and open the Zip File. Then select the "Learn-to-code-for-data-analysis-master" folder and copy it somewhere in your computer you would feel comfortable accessing it frequently (for me, the Documents folder works best).
 
+
 # Finishing the installation:
 
 We're nearly there! Now go back to Anaconda navigator and open Jupyter Notebooks. After a few moments, your internet browser should open to a webpage that looks like this.
-### TODO: ADD JUPYTER SPLASHPAGE
+![](assets/splashPage.png)
 *Fun fact, it's actually running on your computer, but looks like a webpage!*
 
 Now, locate that folder you moved to somewhere convinient and open it. You should see this:
-### TODO: ADD OPENLEARN CONTENTS IMAGE
+![](assets/openFiles.png)
 
 Once you've found your folder, open the test_installation.ipymb file. Finally, click on the cell that contains a bunch of code and click run. Your results should look like this:
-### TODO: ADD SUCCESSFUL OUTPUT IMAGE
+![](assets/correctOutput.png)
 
-If everything went well, you're now ready to complete the exercises and projects necessary for OpenLearn. If not, feel free to email me and we can schedule a time to troubleshoot.
+***If everything went well, you're now ready to complete the exercises and projects necessary for OpenLearn. If not, feel free to email me and we can schedule a time to troubleshoot.***
