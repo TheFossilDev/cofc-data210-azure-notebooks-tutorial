@@ -14,3 +14,20 @@ In the 'My Projects' page (pictured), select the 'Upload GitHub Repo' option (hi
 ![](import-github-screen.png)
 <p>Import and you will be taken to your project files. Folders represent sections in the cirriculum.</p>
 Finally, open and run the test_installation file and ensure that you have no errors.
+
+
+
+# How to install Anaconda
+
+Visit [Anaconda's Download Page](https://www.anaconda.com/products/individual#windows) and download the appropriate version for your platform.
+![](assets/anacondaInstallers.png)
+
+Then, open the Anaconda Installer downloaded and follow the instructions. Leave all settings in their default state. Or, feel free to research what each question is asking. These concepts will reappaear later if you pursue data-sci/comp-sci.
+
+## Anaconda navigator
+* **Jupyter Notebooks:** More user friendly, easy to follow. (recommended for this course)
+* **Jupyter lab:** More complicated options and navigation experience. (not recommended unless you intend to dive deeper into the platform)
+![](assets/navigator.png)
+
+
+# Downloading the OpenLearn course files:
