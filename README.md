@@ -1,23 +1,4 @@
-# Microsoft Azure Jupyter Notebooks Instructions (CofC Data 210)
-
-Go to [Microsoft's Azure Notebooks Website](https://notebooks.azure.com/) and click 'sign in' at the top right corner.
-Sign in using your cofc microsoft account.
-
-In the 'My Projects' page (pictured), select the 'Upload GitHub Repo' option (highlighted in red).
-![](projects-screen.png)
-
-### Upload GitHub Repository Window (Pictured):
-* **GitHub Repository:** (`mwermelinger/Learn-to-code-for-data-analysis`) links to the *learn to code for data analysis* resources
-* **Project Name:** For personal use
-* **Project ID:** For personal use and sharing with mentors to troubleshoot code *(optional)*.
-* **Public:** Must be public to share with Mentors/Instructor, can be changed at any time.
-![](import-github-screen.png)
-<p>Import and you will be taken to your project files. Folders represent sections in the cirriculum.</p>
-Finally, open and run the test_installation file and ensure that you have no errors.
-
-
-
-# How to install Anaconda
+# Installing Anaconda
 
 Visit [Anaconda's Download Page](https://www.anaconda.com/products/individual#windows) and download the appropriate version for your platform.
 ![](assets/anacondaInstallers.png)
@@ -31,3 +12,22 @@ Then, open the Anaconda Installer downloaded and follow the instructions. Leave 
 
 
 # Downloading the OpenLearn course files:
+
+Go to the OpenLearn [Course Documents Page](https://github.com/mwermelinger/Learn-to-code-for-data-analysis). **Click the green "Code" button and select "Download Zip".**
+![](assets/gitHub-repo.png)
+
+Once downloaded, locate it in your computer's files and open the Zip File. Then select the "Learn-to-code-for-data-analysis-master" folder and copy it somewhere in your computer you would feel comfortable accessing it frequently (for me, the Documents folder works best).
+
+# Finishing the installation:
+
+We're nearly there! Now go back to Anaconda navigator and open Jupyter Notebooks. After a few moments, your internet browser should open to a webpage that looks like this.
+### TODO: ADD JUPYTER SPLASHPAGE
+*Fun fact, it's actually running on your computer, but looks like a webpage!*
+
+Now, locate that folder you moved to somewhere convinient and open it. You should see this:
+### TODO: ADD OPENLEARN CONTENTS IMAGE
+
+Once you've found your folder, open the test_installation.ipymb file. Finally, click on the cell that contains a bunch of code and click run. Your results should look like this:
+### TODO: ADD SUCCESSFUL OUTPUT IMAGE
+
+If everything went well, you're now ready to complete the exercises and projects necessary for OpenLearn. If not, feel free to email me and we can schedule a time to troubleshoot.
