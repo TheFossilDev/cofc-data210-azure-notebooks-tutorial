@@ -29,6 +29,7 @@ Now, locate that folder you moved to somewhere convinient and open it. You shoul
 ![](assets/openFiles.png)
 
 Once you've found your folder, open the test_installation.ipymb file. Finally, click on the cell that contains a bunch of code and click run. Your results should look like this:
+
 ![](assets/correctOutput.png)
 
 ***If everything went well, you're now ready to complete the exercises and projects necessary for OpenLearn. If not, feel free to email me and we can schedule a time to troubleshoot.***
